@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%7Bhunt%7D/static/css/main.858048ad.chunk.css",
+    "main.js": "/%7Bhunt%7D/static/js/main.4511f94a.chunk.js",
+    "main.js.map": "/%7Bhunt%7D/static/js/main.4511f94a.chunk.js.map",
+    "runtime-main.js": "/%7Bhunt%7D/static/js/runtime-main.a88b3ed5.js",
+    "runtime-main.js.map": "/%7Bhunt%7D/static/js/runtime-main.a88b3ed5.js.map",
+    "static/js/2.6c812e9d.chunk.js": "/%7Bhunt%7D/static/js/2.6c812e9d.chunk.js",
+    "static/js/2.6c812e9d.chunk.js.map": "/%7Bhunt%7D/static/js/2.6c812e9d.chunk.js.map",
+    "static/js/3.bbb49bfa.chunk.js": "/%7Bhunt%7D/static/js/3.bbb49bfa.chunk.js",
+    "static/js/3.bbb49bfa.chunk.js.map": "/%7Bhunt%7D/static/js/3.bbb49bfa.chunk.js.map",
+    "index.html": "/%7Bhunt%7D/index.html",
+    "static/css/main.858048ad.chunk.css.map": "/%7Bhunt%7D/static/css/main.858048ad.chunk.css.map",
+    "static/js/2.6c812e9d.chunk.js.LICENSE.txt": "/%7Bhunt%7D/static/js/2.6c812e9d.chunk.js.LICENSE.txt",
+    "static/media/clue.d3c1c536.png": "/%7Bhunt%7D/static/media/clue.d3c1c536.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a88b3ed5.js",
+    "static/js/2.6c812e9d.chunk.js",
+    "static/css/main.858048ad.chunk.css",
+    "static/js/main.4511f94a.chunk.js"
+  ]
+}
