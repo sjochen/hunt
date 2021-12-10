@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hunt/static/css/main.858048ad.chunk.css",
+    "main.js": "/hunt/static/js/main.4511f94a.chunk.js",
+    "main.js.map": "/hunt/static/js/main.4511f94a.chunk.js.map",
+    "runtime-main.js": "/hunt/static/js/runtime-main.58ec8755.js",
+    "runtime-main.js.map": "/hunt/static/js/runtime-main.58ec8755.js.map",
+    "static/js/2.6c812e9d.chunk.js": "/hunt/static/js/2.6c812e9d.chunk.js",
+    "static/js/2.6c812e9d.chunk.js.map": "/hunt/static/js/2.6c812e9d.chunk.js.map",
+    "static/js/3.bbb49bfa.chunk.js": "/hunt/static/js/3.bbb49bfa.chunk.js",
+    "static/js/3.bbb49bfa.chunk.js.map": "/hunt/static/js/3.bbb49bfa.chunk.js.map",
+    "index.html": "/hunt/index.html",
+    "static/css/main.858048ad.chunk.css.map": "/hunt/static/css/main.858048ad.chunk.css.map",
+    "static/js/2.6c812e9d.chunk.js.LICENSE.txt": "/hunt/static/js/2.6c812e9d.chunk.js.LICENSE.txt",
+    "static/media/clue.d3c1c536.png": "/hunt/static/media/clue.d3c1c536.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58ec8755.js",
+    "static/js/2.6c812e9d.chunk.js",
+    "static/css/main.858048ad.chunk.css",
+    "static/js/main.4511f94a.chunk.js"
+  ]
+}
